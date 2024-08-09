@@ -1,0 +1,76 @@
+table {
+	height: 150px;
+	width: 100%;
+	gap: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: black;
+}
+
+th,
+td {
+	border: 1px solid black;
+	padding: 8px;
+	text-align: left;
+	background-color: deepskyblue;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+}
+
+th {
+	background-color: deepskyblue;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 40px;
+	color: red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	padding-right: 100px;
+
+}
+
+form {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding-right: 10px;
+
+}
+
+form input {
+	font-size: 20px;
+}
+
+.input {
+	border-radius: 25px;
+	font-size: 35px;
+	width: 15%;
+	background-color: forestgreen;
+	color: white;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.add {
+	font-size: 40px;
+	color: blue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-decoration: none;
+	padding-right: 8px;
+}
+
+.form1{
+	font-size: 20px;
+}
+.updateh1{
+	color: red;
+	padding-right: 20px;
+}
